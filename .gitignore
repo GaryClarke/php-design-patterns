@@ -174,3 +174,5 @@ modules.xml
 # End of https://www.toptal.com/developers/gitignore/api/phpstorm,phpstorm+all
 
 /vendor
+
+notes.txt
