@@ -13,7 +13,6 @@ class RandomProcessor
 
     public function process(array $data): bool
     {
-//        $result = $this->fileWriter->writeToFile($data);
         $fileWriter = new CsvFileWriter();
 
         $result = $fileWriter->writeToFile($data);
