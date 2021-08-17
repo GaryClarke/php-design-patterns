@@ -1,6 +1,7 @@
 {
     "require": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit": "^9.5",
+        "symfony/var-dumper": "^5.3"
     },
 
     "autoload": {
